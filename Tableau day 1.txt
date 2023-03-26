@@ -1,0 +1,39 @@
+Tableau day 1
+
+Live - Its direct connection to a datasource
+
+extract - it snapshot of data in our local machine
+
+Tableau Extensions:
+
+Tableau workbook (Twb)
+Tableau packaged workbook(Twbx)
+Tableau data extract(tde)(.hyper)- tableau 10.5 realease
+Tableau bookmark(Tbm)
+Tableau datasource(Tds)
+Tableau packaged datasource(Tdsx)
+Tableau prefrence(.tps)-My tableau Repository
+Tableau mapsource(.tms)
+
+Dimensions:
+Dimensions contain qualitative values.
+
+Measures:
+Measures contains Quantitative values.Measure can be aggrecated.(Ex:sales,profit...)
+
+Discrete:
+"Individually separate and distinct values",range of unique values.It assigns blue color.
+
+Continuous:
+Forming an unbroken whole without numbers,It assigns green colors.
+
+Data types:
+
+text/string
+number
+date
+date&time
+Boolean (true/false)
+Geographic
+
+
